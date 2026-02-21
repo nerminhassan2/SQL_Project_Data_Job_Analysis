@@ -28,7 +28,8 @@ WITH top_paying_jobs AS (
     LIMIT 10
 )
 
-SELECT top_paying_jobs.*, skills
+SELECT top_paying_jobs.*, 
+    skills
 FROM 
     top_paying_jobs
 INNER JOIN skills_job_dim
