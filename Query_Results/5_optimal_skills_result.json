@@ -1,0 +1,77 @@
+[
+  {
+    "skills": "go",
+    "avg_salary": "115320",
+    "demand_count": "27"
+  },
+  {
+    "skills": "confluence",
+    "avg_salary": "114210",
+    "demand_count": "11"
+  },
+  {
+    "skills": "hadoop",
+    "avg_salary": "113193",
+    "demand_count": "22"
+  },
+  {
+    "skills": "snowflake",
+    "avg_salary": "112948",
+    "demand_count": "37"
+  },
+  {
+    "skills": "azure",
+    "avg_salary": "111225",
+    "demand_count": "34"
+  },
+  {
+    "skills": "bigquery",
+    "avg_salary": "109654",
+    "demand_count": "13"
+  },
+  {
+    "skills": "aws",
+    "avg_salary": "108317",
+    "demand_count": "32"
+  },
+  {
+    "skills": "java",
+    "avg_salary": "106906",
+    "demand_count": "17"
+  },
+  {
+    "skills": "ssis",
+    "avg_salary": "106683",
+    "demand_count": "12"
+  },
+  {
+    "skills": "jira",
+    "avg_salary": "104918",
+    "demand_count": "20"
+  },
+  {
+    "skills": "oracle",
+    "avg_salary": "104534",
+    "demand_count": "37"
+  },
+  {
+    "skills": "looker",
+    "avg_salary": "103795",
+    "demand_count": "49"
+  },
+  {
+    "skills": "nosql",
+    "avg_salary": "101414",
+    "demand_count": "13"
+  },
+  {
+    "skills": "python",
+    "avg_salary": "101397",
+    "demand_count": "236"
+  },
+  {
+    "skills": "r",
+    "avg_salary": "100499",
+    "demand_count": "148"
+  }
+]

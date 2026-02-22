@@ -18,9 +18,9 @@ SELECT 	job_id,
 	job_posted_date,
     name AS company_name
 FROM 
-    job_postings_fact
-LEFT JOIN company_dim 
-    ON job_postings_fact.company_id = company_dim.company_id
+    job_postings_fact AS jp
+LEFT JOIN company_dim AS c
+    ON jp.company_id = c.company_id
 WHERE 
     job_title_short = 'Data Analyst'
         AND job_location = 'Anywhere'
