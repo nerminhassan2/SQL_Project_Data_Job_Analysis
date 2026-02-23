@@ -93,11 +93,11 @@ This query highlights the **top 5 skills most requested locally**.
 
 | Skill    | Demand    |
 | -------- | --------- |
-| SQL      | Very High |
-| Excel    | Very High |
-| Python   | High      |
-| Tableau  | Medium    |
-| Power BI | Medium    |
+| SQL      | Very High (196) |
+| Excel    | Very High (168)|
+| Python   | High      (155)|
+| Tableau  | Medium    (126)|
+| Power BI | Medium    (123)|
 
 **Key Insights:**
 
